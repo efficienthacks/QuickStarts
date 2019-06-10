@@ -3,55 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/basics/first-content/</loc>
+    <loc>https://efficienthacks.github.io/QuickStarts/basics/first-content/</loc>
     <lastmod>2019-06-09T23:36:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/basics/second-content/</loc>
+    <loc>https://efficienthacks.github.io/QuickStarts/basics/second-content/</loc>
     <lastmod>2019-06-09T23:36:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/basics/second-content/somefile/</loc>
+    <loc>https://efficienthacks.github.io/QuickStarts/basics/second-content/somefile/</loc>
     <lastmod>2019-06-09T23:36:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/basics/</loc>
+    <loc>https://efficienthacks.github.io/QuickStarts/basics/</loc>
     <lastmod>2019-06-09T23:36:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-06-09T23:36:01-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://efficienthacks.github.io/QuickStarts/</loc>
     <lastmod>2019-06-09T23:36:01-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/basics/third/</loc>
-    <lastmod>2019-06-09T23:36:01-07:00</lastmod>
+    <loc>https://efficienthacks.github.io/QuickStarts/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/tag2/</loc>
+    <loc>https://efficienthacks.github.io/QuickStarts/tags/</loc>
     <lastmod>2019-06-09T23:36:01-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/tag21/</loc>
+    <loc>https://efficienthacks.github.io/QuickStarts/basics/third/</loc>
+    <lastmod>2019-06-09T23:36:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://efficienthacks.github.io/QuickStarts/tags/tag2/</loc>
+    <lastmod>2019-06-09T23:36:01-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://efficienthacks.github.io/QuickStarts/tags/tag21/</loc>
     <lastmod>2019-06-09T23:36:01-07:00</lastmod>
     <priority>0</priority>
   </url>
