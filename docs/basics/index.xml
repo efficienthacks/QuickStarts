@@ -12,12 +12,23 @@
     
     
     <item>
+      <title>First Content 2</title>
+      <link>https://efficienthacks.github.io/QuickStarts/basics/first-content.1/</link>
+      <pubDate>Sun, 09 Jun 2019 08:32:24 -0700</pubDate>
+      
+      <guid>https://efficienthacks.github.io/QuickStarts/basics/first-content.1/</guid>
+      <description>some content
+image? </description>
+    </item>
+    
+    <item>
       <title>First Content dsfgsdfg</title>
       <link>https://efficienthacks.github.io/QuickStarts/basics/first-content/</link>
       <pubDate>Sun, 09 Jun 2019 08:32:24 -0700</pubDate>
       
       <guid>https://efficienthacks.github.io/QuickStarts/basics/first-content/</guid>
-      <description>some content</description>
+      <description>some content
+image? </description>
     </item>
     
     <item>

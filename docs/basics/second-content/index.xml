@@ -13,11 +13,13 @@
     
     <item>
       <title>Second Content 2</title>
-      <link>https://efficienthacks.github.io/QuickStarts/basics/second-content/somefile/</link>
+      <link>https://efficienthacks.github.io/QuickStarts/basics/second-content/sub-content/</link>
       <pubDate>Sun, 09 Jun 2019 08:32:33 -0700</pubDate>
       
-      <guid>https://efficienthacks.github.io/QuickStarts/basics/second-content/somefile/</guid>
-      <description>Second content Some content title Lorem Ipsum.</description>
+      <guid>https://efficienthacks.github.io/QuickStarts/basics/second-content/sub-content/</guid>
+      <description> Second content Test content
+Some content title Lorem Ipsum.
+Loading... </description>
     </item>
     
   </channel>
